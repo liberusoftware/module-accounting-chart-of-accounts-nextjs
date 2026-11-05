@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-chart-of-accounts-nextjs",
+  "capabilityKey": "liberusoftware/module-accounting-chart-of-accounts",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-accounting-chart-of-accounts-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/accounting/nextjs/chart-of-accounts.md",
+  "presentationPlan": "projects/accounting/nextjs/chart-of-accounts.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
